@@ -43,6 +43,12 @@ sudo mv bettercap_linux_amd64 /usr/local/bin/bettercap
 
 sudo bettercap
 
+
+
+OR SIMPLY ONE LINE
+sudo apt update && sudo apt upgrade -y
+sudo apt install bettercap
+
 ###  Bettercap Commands  
 
  Basic Commands (within Bettercap session)
