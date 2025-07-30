@@ -1,6 +1,6 @@
 # Bettercap
 
-![Bettercap Logo](https://raw.githubusercontent.com/bettercap/bettercap/master/assets/logo.png)
+![Bettercap Logo](https://2.bp.blogspot.com/-j4Eq5XSJ2gE/XL2W3AsZUjI/AAAAAAAACXU/gbnBbbuP6AYaL3O83yy9O7VwZZ70t_CRQCLcBGAs/s1600/bettercap.png)
 
 Bettercap is a powerful, flexible, and portable **network monitoring**, **man-in-the-middle**, and **real-time packet manipulation** tool. Built to be extensible and scriptable, it is used by security professionals and penetration testers for a wide range of cybersecurity tasks.
 
